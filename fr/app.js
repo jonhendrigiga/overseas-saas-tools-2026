@@ -1,0 +1,4 @@
+function pick(){var cs=document.getElementById('cs').value,tr=document.getElementById('tr').value;
+var csr={cn:'Meiqia (omnicanal + leads IA, ~400k entreprises)',oversea:'Meiqia (Chine+international) ou Zendesk (40+ langues, WhatsApp natif)',phone:'Ronglian/Qiyu (ADN centre d\'appels)',fin:'Sur site (sécurité niveau 3 + chiffrement), édition privée Meiqia/Zhichi'}[cs];
+var trr={doc:'Youdao (mise en page, export Word) ou DeepL',eu:'DeepL (documents européens, mise en page)',long:'ChatGPT/Claude (meilleur contexte)',daily:'Youdao (BLEU zh-en ~42 vs Google ~38) ou Google (plus de langues)'}[tr];
+document.getElementById('out').style.display='block';document.getElementById('out').innerHTML='<div class=rec>Chat -> '+csr+'</div><div class=rec style="margin-top:10px">Traduction -> '+trr+'</div>';}
