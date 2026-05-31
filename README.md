@@ -2,7 +2,7 @@
 
 按你的业务场景（国内全渠道 / 出海 / 呼叫中心 / 强合规；论文 / 欧语 / 长文 / 日常）给出在线客服系统与 AI 翻译工具的推荐与理由。
 
-**🌐 在线使用 / Live:** [简体](https://jonhendrigiga.github.io/overseas-saas-tools-2026/) · [繁體](https://jonhendrigiga.github.io/overseas-saas-tools-2026/zh-tw/) · [English](https://jonhendrigiga.github.io/overseas-saas-tools-2026/en/) · [日本語](https://jonhendrigiga.github.io/overseas-saas-tools-2026/ja/) · [Français](https://jonhendrigiga.github.io/overseas-saas-tools-2026/fr/)
+**🌐 在线使用 / Live:** [简体](https://jonhendrigiga.github.io/overseas-saas-tools-2026/) · [繁體](https://jonhendrigiga.github.io/overseas-saas-tools-2026/zh-tw/) · [English](https://jonhendrigiga.github.io/overseas-saas-tools-2026/en/) · [日本語](https://jonhendrigiga.github.io/overseas-saas-tools-2026/ja/) · [Français](https://jonhendrigiga.github.io/overseas-saas-tools-2026/fr/) · [Deutsch](https://jonhendrigiga.github.io/overseas-saas-tools-2026/de/)
 
 ## 这个工具能做什么
 
