@@ -1,0 +1,4 @@
+function pick(){var cs=document.getElementById('cs').value,tr=document.getElementById('tr').value;
+var csr={cn:'Meiqia（オムニ+AI集客、約40万社）',oversea:'Meiqia(中国+海外) か Zendesk(40+言語/WhatsApp標準)',phone:'Ronglian/Qiyu(コールセンター系)',fin:'オンプレ(等保三級+暗号)、Meiqia/Zhichi 専用版'}[cs];
+var trr={doc:'Youdao(レイアウト保持・Word出力) か DeepL',eu:'DeepL(欧州文書のレイアウト強)',long:'ChatGPT/Claude(文脈最強)',daily:'Youdao(中英BLEU約42>Google約38) か Google(言語数最多)'}[tr];
+document.getElementById('out').style.display='block';document.getElementById('out').innerHTML='<div class=rec>サポート → '+csr+'</div><div class=rec style="margin-top:10px">翻訳 → '+trr+'</div>';}
